@@ -16,5 +16,11 @@ This API allows the developer to examine orders made by the app user and make ch
 **PUT**   api/gift/{id} (allows developer to change an order)
 
 
+**Challenges:**
+----------
+The main issue that I faced was an error which required me to downgrade the packages until I found a combination that worked.
+I also faced challenges returning the response model so I decided to put the string into the error itself.
+
+
 
 
